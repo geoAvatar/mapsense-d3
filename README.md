@@ -1,4 +1,4 @@
 # Making maps with vector tiles
-with mapsense.js for Maptime SF
+with mapsense.js & D3
 
-[http://jhnklly.github.io/vector_tiles_tutorial/](http://jhnklly.github.io/vector_tiles_tutorial/)
+[http://jhnklly.github.io/mapsense-d3/](http://jhnklly.github.io/mapsense-d3/)
